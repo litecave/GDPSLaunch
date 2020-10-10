@@ -1,0 +1,14 @@
+{
+  "props": [],
+  "components": {
+    "zipFile": {
+      "type": "bundle\\zip\\ZipFileScript",
+      "x": 48.0,
+      "y": 80.0,
+      "props": {
+        "path": "GDDS.zip",
+        "autoCreate": false
+      }
+    }
+  }
+}

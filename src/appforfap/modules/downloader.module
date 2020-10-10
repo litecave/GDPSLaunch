@@ -1,0 +1,17 @@
+{
+  "props": {
+    "singleton": false
+  },
+  "components": {
+    "downloader": {
+      "type": "bundle\\http\\HttpDownloader",
+      "x": 32.0,
+      "y": 32.0,
+      "props": {
+        "urls": "http://www.dropbox.com/s/0uoaxl3ufo08e17/GDDS.zip?dl=0",
+        "destDirectory": "C:\\GDPS\\HolyDash",
+        "threadCount": "4"
+      }
+    }
+  }
+}
